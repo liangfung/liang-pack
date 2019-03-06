@@ -1,0 +1,11 @@
+{
+  "name": "liang-pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:liangfung/liang-pack.git",
+  "author": "liangfung <1098486429@qq.com>",
+  "license": "MIT",
+  "bin": {
+    "liang-pack": "./bin/liang-pack.js"
+  }
+}
