@@ -130,6 +130,11 @@ debug@^4.1.0:
   dependencies:
     ms "^2.1.1"
 
+ejs@^2.6.1:
+  version "2.6.1"
+  resolved "http://r.cnpmjs.org/ejs/download/ejs-2.6.1.tgz#498ec0d495655abc6f23cd61868d926464071aa0"
+  integrity sha1-SY7A1JVlWrxvI81hho2SZGQHGqA=
+
 escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "http://r.cnpmjs.org/escape-string-regexp/download/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
