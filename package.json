@@ -13,6 +13,7 @@
     "@babel/traverse": "^7.3.4",
     "@babel/types": "^7.3.4",
     "babylon": "^6.18.0",
-    "ejs": "^2.6.1"
+    "ejs": "^2.6.1",
+    "tapable": "^1.1.1"
   }
 }
